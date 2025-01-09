@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: zurich-weather-app
-        image: mpdevilleres/zurich-weather-app:1.0
+        image: mpdevilleres/zurich-weather-app:main
         ports:
         - containerPort: 8080
         # resources:
